@@ -1,5 +1,7 @@
 [package]
 name = "parser_kostiantyn_cap_project_v1"
+description = "My parser done as example for students"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
